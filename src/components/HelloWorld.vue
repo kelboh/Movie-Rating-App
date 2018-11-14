@@ -1,6 +1,6 @@
 <template>
-  <div>
+  <v-layout>
     Hello World
-  </div>
+  </v-layout>
 </template>
 
